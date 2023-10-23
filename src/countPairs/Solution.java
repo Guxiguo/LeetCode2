@@ -1,6 +1,8 @@
 package countPairs;
 
 
+import java.util.Arrays;
+
 /**
  * 给你一个整数 n ，表示一张 无向图 中有 n 个节点，编号为 0 到 n - 1 。同时给你一个二维整数数组 edges ，其中 edges[i] = [ai, bi] 表示节点 ai 和 bi 之间有一条 无向 边。
  *
